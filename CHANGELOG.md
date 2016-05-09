@@ -1,5 +1,9 @@
 NativeScript CLI Changelog
 ================
+2.0.1 (2016, May 09)
+==
+### Fixed
+* [Fixed #1746](https://github.com/NativeScript/nativescript-cli/issues/1746): Remove node_modules after preparing plugins.
 
 2.0.0 (2016, April 28)
 ==
